@@ -158,6 +158,7 @@ CALCULATE(
 
 ### 🔵 Excel Dashboard
 
+![Excel Dashboard](ZOMATO_RESTAURANTS_EXCEL_DASHBOARD.png)
 
 ---
 
