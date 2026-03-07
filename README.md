@@ -188,6 +188,7 @@ CALCULATE(
 
 ### Data Model Diagram
 
+![Data Model](DATA_MODEL.png)
 
 ### 🟠 Tableau Dashboard
 
