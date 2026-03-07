@@ -39,7 +39,9 @@ The dataset includes:
 - Online Delivery Availability
 - Opening Date
 
-Total Records: 9500+
+Dataset Size:
+- Total Records: 9551
+- Total Columns: 21
 
 ---
 ## Dataset Source
@@ -60,6 +62,7 @@ The analysis focuses on answering the following key business questions:
 - What percentage of restaurants offer online delivery?
 - What rating range contains the majority of restaurants?
 - Which cities have the highest concentration of restaurants?
+- How does pricing vary across countries?
 
 ---
 
@@ -242,6 +245,19 @@ This project helps stakeholders:
 - Identify high-performing regions
 
 ---
+
+## Project Structure
+
+zomato-restaurant-data-analysis
+│
+├── ZOMATO_PROJECT_INSIGHTS.sql
+├── ZOMATO_ANALYSIS_EXCEL.xlsx
+├── ZOMATO_ANALYSIS_POWERBI.pbix
+├── TABLEAU_ZOMATO_DASHBOARD.twbx
+├── POWERBI_ZOMATO_DASHBOARD.png
+├── TABLEAU_ZOMATO_DASHBOARD.png
+├── ZOMATO_ANALYSIS_EXCEL_DASHBOARD.png
+└── README.md
 
 ## 👩‍💻 Author
 
