@@ -107,14 +107,19 @@ ORDER BY cal.Year, cal.Quarter;
 
 The data model was structured using:
 
-- Fact Table: Restaurant Data
+- Fact Table: (Main) Restaurant Data
 - Dimension Tables:
   - Calendar Table
-  - Country Table 
+  - Country Table
+  - Currency Table
 
-Relationships:
-- Datekey → Calendar Table (One-to-Many)
-- Country ID → Country Dimension
+## Relationships
+
+| Dimension Table | Column | Fact Table | Column | Relationship |
+|----------------|--------|------------|--------|--------------|
+| Calendar | DateKey | Main | DateKey | 1 : Many |
+| Country | CountryID | Main | CountryCode | 1 : Many |
+| Currency | Currency | Main | Currency | 1 : Many |
 
 This structure enabled efficient time-based and country-level analysis.
 
@@ -180,6 +185,9 @@ CALCULATE(
 ### 🔵 Power BI Dashboard
 
 ![Power BI Dashboard](POWERBI_ZOMATO_DASHBOARD.png)
+
+### Data Model Diagram
+
 
 ### 🟠 Tableau Dashboard
 
