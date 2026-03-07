@@ -148,11 +148,15 @@ CALCULATE(
 
 ## 📷 Dashboard Preview
 
-### 🔵 EXCEL Dashboard
+### 🔵 Power BI Dashboard
 
-                                                                                                
+![Power BI Dashboard](POWERBI_ZOMATO_DASHBOARD.png)
 
 ### 🟠 Tableau Dashboard
+
+![Tableau Dashboard](TABLEAU_ZOMATO_DASHBOARD.png)
+
+### 🔵 Excel Dashboard
 
 
 ---
