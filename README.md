@@ -10,6 +10,12 @@ The objective was to transform raw data into meaningful business insights using 
 
 ---
 
+## Project Context
+
+This project was completed as part of the Data Analytics internship program where the objective was to perform end-to-end data analysis and create business insights using SQL, Excel, Power BI, and Tableau.
+
+---
+
 ## 🛠 Tools & Technologies Used
 
 - SQL (Data extraction & aggregation)
@@ -34,6 +40,26 @@ The dataset includes:
 - Opening Date
 
 Total Records: 9500+
+
+---
+## Dataset Source
+
+The dataset used in this project was provided as part of the Data Analytics internship program conducted by ExcelR / AI Variant.
+
+It contains restaurant-related information such as location, ratings, pricing, cuisines, and delivery availability.
+
+Note: This dataset was provided for educational and analytical purposes as part of the internship project.
+
+--- 
+## ❓ Business Questions
+
+The analysis focuses on answering the following key business questions:
+
+- Which countries have the highest number of restaurants?
+- How has restaurant growth changed over time?
+- What percentage of restaurants offer online delivery?
+- What rating range contains the majority of restaurants?
+- Which cities have the highest concentration of restaurants?
 
 ---
 
