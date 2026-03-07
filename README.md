@@ -260,19 +260,12 @@ This project helps stakeholders:
 zomato-restaurant-data-analysis
 │
 ├── ZOMATO_PROJECT_INSIGHTS.sql
-|
 ├── ZOMATO_ANALYSIS_EXCEL.xlsx
-|
 ├── ZOMATO_ANALYSIS_POWERBI.pbix
-|
 ├── TABLEAU_ZOMATO_DASHBOARD.twbx
-|
 ├── POWERBI_ZOMATO_DASHBOARD.png
-|
 ├── TABLEAU_ZOMATO_DASHBOARD.png
-|
 ├── ZOMATO_ANALYSIS_EXCEL_DASHBOARD.png
-|
 └── README.md
 
 ## 👩‍💻 Author
