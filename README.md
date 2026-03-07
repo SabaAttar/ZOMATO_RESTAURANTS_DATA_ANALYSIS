@@ -272,6 +272,6 @@ zomato-restaurant-data-analysis
 
 Saba Attar  
 Aspiring Data Analyst 
-Skills : SQL | Power BI | Tableau | Excel
+- Skills : SQL | Power BI | Tableau | Excel
 
 ---
